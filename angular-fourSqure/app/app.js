@@ -1,11 +1,4 @@
 ﻿
-/*######################*********************#############################
-  
- Created by: Taiseer Joudeh
-  http://twitter.com/tjoudeh
-  http://bitoftech.net
-
- ######################*********************##############################*/
 
 var app = angular.module('FoursquareApp', ['ngRoute', 'ngResource', 'ui.bootstrap', 'toaster', 'chieffancypants.loadingBar']);
 

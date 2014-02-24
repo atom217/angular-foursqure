@@ -1,3 +1,8 @@
+Four Square app make use of Four Square api
+*It is made using app-seed template hence the below template is relvent 
+
+
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
